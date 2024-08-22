@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba 👋, Ben Himmet Arda SARGIN</h1>
-<h3 align="center">İstinye Üniversitesi Bilgisayar Programcılığı Mezunuyum</h3>
+<h1 align="center">Hello 👋, I am Himmet Arda SARGIN</h1>
+<h3 align="center">I am a graduate of İstinye University Computer Programming</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
